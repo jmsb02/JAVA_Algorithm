@@ -10,7 +10,7 @@ public class Array002 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        int n = Integer.parseInt(br.readLine()); ///3
+        int n = Integer.parseInt(br.readLine()); //3
         int[] arr1 = new int[n];
         int sum = 0;
         StringTokenizer st = new StringTokenizer(br.readLine(), " "); //40 80 60
