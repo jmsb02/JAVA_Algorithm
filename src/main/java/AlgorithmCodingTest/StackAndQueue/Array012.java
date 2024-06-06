@@ -1,4 +1,4 @@
-package StackAndQueue;
+package AlgorithmCodingTest.StackAndQueue;
 
 import java.io.*;
 import java.util.Stack;
