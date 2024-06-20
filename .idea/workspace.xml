@@ -4,45 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="751fef03-42e7-4a09-ace7-e45325870db7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="751fef03-42e7-4a09-ace7-e45325870db7" name="Changes" comment="commit 0619">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Array/Array009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Greedy/Greedy032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Greedy/Greedy032.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search024.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search025.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search025.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search026.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search026.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search027.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search027.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search028.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search029.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search029.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search030.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search030.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Search/Search031.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Sort/Sort022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/StackAndQueue/Array010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/StackAndQueue/Array010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/StackAndQueue/Array012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/StackAndQueue/Array012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/StackAndQueue/Array013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/StackAndQueue/Array013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/StackAndQueue/Array014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/StackAndQueue/Array014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Number_Theory/NT037.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Number_Theory/NT037.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,34 +20,56 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jmsb02&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jmsb02/JAVA_Algorithm.git&quot;,
+    &quot;accountId&quot;: &quot;cc0bdc85-dc7e-4922-b891-3536643c4fdc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2i5IGXFb6MFm3R7vTvfSyKR8jip" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Gradle.JAVA_Algorithm [:Main.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jaemm/Desktop/work/hello-spring/JAVA_Algorithm/build.gradle",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JAVA_Algorithm [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jaemm/Desktop/work/hello-spring/JAVA_Algorithm/build.gradle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,11 +86,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718773915533</updated>
-      <workItem from="1718773916558" duration="3632000" />
+      <workItem from="1718773916558" duration="6628000" />
+      <workItem from="1718863820368" duration="3042000" />
     </task>
+    <task id="LOCAL-00001" summary="commit 0619">
+      <option name="closed" value="true" />
+      <created>1718777691238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718777691238</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 0619" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 0619" />
   </component>
 </project>
