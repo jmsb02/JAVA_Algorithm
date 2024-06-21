@@ -1,0 +1,82 @@
+Index: src/main/java/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws IOException {\n        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));\n\n        //변수 초기화\n        int n = Integer.parseInt(br.readLine());\n        PriorityQueue<Integer> plusPq = new PriorityQueue<>(Comparator.reverseOrder()); //양수는 큰수부터 처리해야함 -> reverse\n        PriorityQueue<Integer> minusPq = new PriorityQueue<>();\n        int one = 0, zero = 0;\n\n        for (int i = 0; i < n; i++) {\n            int value = Integer.parseInt(br.readLine());\n            if (value < 0) {\n                minusPq.add(value);\n            } else if (value == 0) {\n                zero += 1;\n            } else if (value == 1) {\n                one += 1;\n            } else { //value >=1\n                plusPq.add(value);\n            }\n        }\n\n        int sum =0;\n        //양수 배열 로직\n        while(plusPq.size()>1) {\n            int plus1 = plusPq.remove();\n            int plus2 = plusPq.remove();\n            sum += (plus1*plus2);\n        }\n        //남아있을 때 양수 배열 같은 경우 그냥 더해줌\n        if(!plusPq.isEmpty()) {\n            sum += plusPq.remove();\n        }\n\n        //음수 배열 로직\n        while(minusPq.size()>1) { //묶어서 곱하려면 사이즈가 2 이상이여야 함\n            int minus1 = minusPq.remove();\n            int minus2 = minusPq.remove();\n            sum += (minus1*minus2);\n        }\n\n        if(!minusPq.isEmpty()) {\n            if(zero==0) { //0이 하나도 존재하지 않으면 그냥 음수 값 더해줌\n                sum += minusPq.remove();\n            }\n        }\n\n        //1은 또 그냥 더해줌\n        sum += one;\n        System.out.println(sum);\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Main.java b/src/main/java/Main.java
+--- a/src/main/java/Main.java	(revision 5aacf608b4dcbb1efd8410c29c4819535b918159)
++++ b/src/main/java/Main.java	(date 1718865987078)
+@@ -4,53 +4,29 @@
+ public class Main {
+     public static void main(String[] args) throws IOException {
+         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
++        StringTokenizer st = new StringTokenizer(br.readLine());
+ 
+-        //변수 초기화
+-        int n = Integer.parseInt(br.readLine());
+-        PriorityQueue<Integer> plusPq = new PriorityQueue<>(Comparator.reverseOrder()); //양수는 큰수부터 처리해야함 -> reverse
+-        PriorityQueue<Integer> minusPq = new PriorityQueue<>();
+-        int one = 0, zero = 0;
++        int n = Integer.parseInt(st.nextToken());
++        int m = Integer.parseInt(st.nextToken());
++        int[] A = new int[m+ 1];
+ 
+-        for (int i = 0; i < n; i++) {
+-            int value = Integer.parseInt(br.readLine());
+-            if (value < 0) {
+-                minusPq.add(value);
+-            } else if (value == 0) {
+-                zero += 1;
+-            } else if (value == 1) {
+-                one += 1;
+-            } else { //value >=1
+-                plusPq.add(value);
+-            }
++        for (int i = 2; i <= m; i++) {
++            A[i] = i;
+         }
+ 
+-        int sum =0;
+-        //양수 배열 로직
+-        while(plusPq.size()>1) {
+-            int plus1 = plusPq.remove();
+-            int plus2 = plusPq.remove();
+-            sum += (plus1*plus2);
+-        }
+-        //남아있을 때 양수 배열 같은 경우 그냥 더해줌
+-        if(!plusPq.isEmpty()) {
+-            sum += plusPq.remove();
+-        }
+-
+-        //음수 배열 로직
+-        while(minusPq.size()>1) { //묶어서 곱하려면 사이즈가 2 이상이여야 함
+-            int minus1 = minusPq.remove();
+-            int minus2 = minusPq.remove();
+-            sum += (minus1*minus2);
+-        }
++        for(int i=2; i<=Math.sqrt(m);i++) {
++            if (A[i] == 0) {
++                continue;
++            }
++            for(int j=2*i; j<=m;j=j+i) {
++                A[j] = 0;
++            }
++            }
+ 
+-        if(!minusPq.isEmpty()) {
+-            if(zero==0) { //0이 하나도 존재하지 않으면 그냥 음수 값 더해줌
+-                sum += minusPq.remove();
+-            }
++        for(int i=n; i<=m; i++) {
++            if(A[i]!=0) {
++                System.out.println(A[i]);
++        }
+         }
+-
+-        //1은 또 그냥 더해줌
+-        sum += one;
+-        System.out.println(sum);
+     }
+ }
