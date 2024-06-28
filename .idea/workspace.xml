@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="751fef03-42e7-4a09-ace7-e45325870db7" name="Changes" comment="commit 0626">
+    <list default="true" id="751fef03-42e7-4a09-ace7-e45325870db7" name="Changes" comment="commit 0627">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024__6__20__PM_4_02_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024__6__20__PM_4_02__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph046.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph046.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +111,10 @@
       <workItem from="1719297188189" duration="4440000" />
       <workItem from="1719385178232" duration="2438000" />
       <workItem from="1719465875453" duration="4530000" />
-      <workItem from="1719471588927" duration="3353000" />
+      <workItem from="1719471588927" duration="3820000" />
+      <workItem from="1719492459250" duration="599000" />
+      <workItem from="1719532699809" duration="2000" />
+      <workItem from="1719555162855" duration="5691000" />
     </task>
     <task id="LOCAL-00001" summary="commit 0619">
       <option name="closed" value="true" />
@@ -184,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719386744771</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit 0627">
+      <option name="closed" value="true" />
+      <created>1719475202221</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719475202221</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +209,7 @@
     <MESSAGE value="commit 0624" />
     <MESSAGE value="commit 0625" />
     <MESSAGE value="commit 0626" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 0626" />
+    <MESSAGE value="commit 0627" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 0627" />
   </component>
 </project>
