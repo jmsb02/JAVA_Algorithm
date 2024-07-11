@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="751fef03-42e7-4a09-ace7-e45325870db7" name="Changes" comment="commit 0709">
+    <list default="true" id="751fef03-42e7-4a09-ace7-e45325870db7" name="Changes" comment="commit 0711">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph055.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph055.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph056.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph056.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph057.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph057.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph059.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph059.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph060.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph060.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +147,10 @@
       <workItem from="1720347968358" duration="3807000" />
       <workItem from="1720417754386" duration="2653000" />
       <workItem from="1720500545678" duration="5775000" />
-      <workItem from="1720589827533" duration="1547000" />
+      <workItem from="1720589827533" duration="4233000" />
+      <workItem from="1720618298615" duration="66000" />
+      <workItem from="1720655685815" duration="3323000" />
+      <workItem from="1720680416722" duration="1796000" />
     </task>
     <task id="LOCAL-00001" summary="commit 0619">
       <option name="closed" value="true" />
@@ -323,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720503778494</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="commit 0710">
+      <option name="closed" value="true" />
+      <created>1720591563479</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1720591563479</updated>
+    </task>
+    <task id="LOCAL-00024" summary="commit 0711">
+      <option name="closed" value="true" />
+      <created>1720658253063</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1720658253063</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,6 +367,8 @@
     <MESSAGE value="commit 0707" />
     <MESSAGE value="commit 0708" />
     <MESSAGE value="commit 0709" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 0709" />
+    <MESSAGE value="commit 0710" />
+    <MESSAGE value="commit 0711" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 0711" />
   </component>
 </project>
