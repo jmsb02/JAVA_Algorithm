@@ -11,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph057.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph057.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph059.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph059.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph060.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph060.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph061.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmCodingTest/Graph/Graph061.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +150,8 @@
       <workItem from="1720589827533" duration="4233000" />
       <workItem from="1720618298615" duration="66000" />
       <workItem from="1720655685815" duration="3323000" />
-      <workItem from="1720680416722" duration="2561000" />
+      <workItem from="1720680416722" duration="2909000" />
+      <workItem from="1720768103582" duration="261000" />
     </task>
     <task id="LOCAL-00001" summary="commit 0619">
       <option name="closed" value="true" />
@@ -353,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720683138210</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="commit 0711">
+      <option name="closed" value="true" />
+      <created>1720683932234</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1720683932234</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
