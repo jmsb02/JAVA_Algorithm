@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 public class Tree068 {
     static ArrayList<Integer>[] A;
     static boolean[] visited;
-    static int root, tmp, m, result;
+    static int root, tmp, m,result;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
