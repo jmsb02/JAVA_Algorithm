@@ -11,7 +11,7 @@ public class Tree070 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
-        tree = new int[26][2]; //A~G 26, 왼쪽 오른쪽 2
+        tree = new int[26][2]; //A~Z 26, 왼쪽 오른쪽 2
         for (int i = 0; i < n; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
             int idx = st.nextToken().charAt(0) - 'A';
